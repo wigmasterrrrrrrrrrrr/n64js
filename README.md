@@ -28,7 +28,7 @@ python3 -m http.server
 
 Navigate to http://localhost:8000/.
 
-If you want to run without installing bun, you can change the importmap in index.html to point at src/n64.js instead of build/n64.min.js.
+If you want to run without installing bun, you can change the importmap in index.html to point at src/n64.js instead of n64.min.js.
 
 ## Compatibility
 
